@@ -1,7 +1,8 @@
 # GitHub Analytics Dashboard
 
-A modern GitHub Analytics Dashboard built with Next.js, TypeScript, GitHub API, Recharts, and Framer Motion.
+🚀 Live Demo: https://github-analytics-dashboard-three.vercel.app
 
+A modern GitHub Analytics Dashboard built with Next.js, TypeScript, GitHub API, Recharts, and Framer Motion.
 ## Features
 
 - GitHub Profile Analysis
